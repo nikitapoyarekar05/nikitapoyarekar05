@@ -14,11 +14,11 @@ I approach each project with a product-focused mindset, understanding business g
 
 My work philosophy is simple: clarity, collaboration, and craftsmanship.
 
-Clarity: I invest time in understanding the problem and the people behind it — clients, users, and teams. This ensures alignment before writing a single line of code.
+**Clarity:** I invest time in understanding the problem and the people behind it — clients, users, and teams. This ensures alignment before writing a single line of code.
 
-Collaboration: I’ve worked in distributed, cross-functional teams and understand the nuances of remote collaboration. I value clear communication, structured updates, and transparency throughout the project lifecycle.
+**Collaboration:** I’ve worked in distributed, cross-functional teams and understand the nuances of remote collaboration. I value clear communication, structured updates, and transparency throughout the project lifecycle.
 
-Craftsmanship: Clean, readable code, reusable components, and performance optimization aren’t afterthoughts, they’re built into my workflow. I follow modern best practices in accessibility, testing (Jest, Cypress), and deployment automation to ensure smooth delivery. 
+**Craftsmanship:** Clean, readable code, reusable components, and performance optimization aren’t afterthoughts, they’re built into my workflow. I follow modern best practices in accessibility, testing (Jest, Cypress), and deployment automation to ensure smooth delivery. 
 
 ## 🚀 What You Can Expect
 - Pixel-perfect, responsive UI  
